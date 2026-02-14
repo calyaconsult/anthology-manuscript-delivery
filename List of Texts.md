@@ -6,3 +6,4 @@
 - [The Descent - Anonymous Model](https://github.com/calyaconsult/anthology-ai-texts/blob/1c2d278b3b9ac675a6fcb84127a04a26205d19cc/The-Descent-Anonymous.md)
 - [The Descent - Mistral](https://github.com/calyaconsult/anthology-ai-texts/blob/1c2d278b3b9ac675a6fcb84127a04a26205d19cc/The-Descent-Mistral.md)
 - [The Descent - MiniMax](https://github.com/calyaconsult/anthology-ai-texts/blob/1c2d278b3b9ac675a6fcb84127a04a26205d19cc/The-Descent-Minimax.md)
+- [The Weight of Hours - Chapter 3](https://github.com/calyaconsult/anthology-ai-texts/blob/c2f12ac0b3506a1cfd02b386abd0118255657f25/The-Weight-of-Hours-Chapter-3.md)

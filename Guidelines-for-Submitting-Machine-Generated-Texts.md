@@ -7,7 +7,7 @@ Here are the guidelines for submitting machine-generated texts, written in a cle
 Follow these rules exactly when uploading texts created by artificial intelligence (like ChatGPT, DeepSeek, Claude, or similar tools). This ensures that the machine-generated content is properly labeled, traceable, and preserved in a stable format.
 
 ### 1. Use the Correct Repository
-- Upload your file **only** to the repository named **`machine-generated-texts`**.
+- Upload your file **only** to the repository named **`anthology-ai-texts`**.
 - Do not upload machine-generated texts to other repositories (like those used for human-written manuscripts).
 
 ### 2. Preserve the Raw Output
@@ -74,3 +74,4 @@ You do not need to do anything special; just leave the text as the machine provi
 
 *This document is machine-generated.*
 *License: public domain*
+

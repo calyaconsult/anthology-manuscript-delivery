@@ -25,7 +25,7 @@ This repository is used for:
 
 ## How to Contribute
 
-If you are contributing machine-generated texts to this project, please follow the [Submission Guidelines](Guidelines-for-Submitting-Machine-Generated-Texts.md). For instructions on the technical process of uploading files, refer to the [Manuscript Delivery Protocol](Author Checklist for Manuscript Delivery Protocol (v2).md).
+If you are contributing machine-generated texts to this project, please follow the [Submission Guidelines](Guidelines-for-Submitting-Machine-Generated-Texts.md). For instructions on the technical process of uploading files, refer to the [Manuscript Delivery Protocol](Author%20Checklist%20for%20Manuscript%20Delivery%20Protocol%20(v2).md).
 
 ## Copyright and Licensing
 

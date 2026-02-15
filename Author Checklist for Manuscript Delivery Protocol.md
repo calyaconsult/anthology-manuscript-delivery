@@ -1,4 +1,4 @@
-Author Checklist: Manuscript Delivery Protocol
+**DEPRECATED** Author Checklist: Manuscript Delivery Protocol
 
 * **Enable Verified Commits:** If the author works locally, they must set up GPG signing on GitHub. This attaches a **"Verified"** badge to every update, proving it came from them and wasn't tampered with.  
 * **Standardized Delivery via Web UI:** For authors who aren't technical, have them upload drafts directly via the **GitHub Web Interface**. This automatically uses GitHub’s server time for the timestamp, which is more credible in court than a local computer clock.  

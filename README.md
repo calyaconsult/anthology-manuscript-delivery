@@ -17,9 +17,9 @@ This repository is used for:
 ## Key Documents
 
 - **[Anthology-Intro.md](Anthology-Intro.md)**: Introduction to the project and the concept of AI text production.
-- **[List of Texts.md](List of Texts.md)**: A curated list of texts being considered for inclusion in the anthology.
+- **[List of Texts.md](List%20of%20Texts.md)**: A curated list of texts being considered for inclusion in the anthology.
 - **[Guidelines-for-Submitting-Machine-Generated-Texts.md](Guidelines-for-Submitting-Machine-Generated-Texts.md)**: Essential rules for contributing AI-generated content.
-- **[Author Checklist for Manuscript Delivery Protocol (v2).md](Author Checklist for Manuscript Delivery Protocol (v2).md)**: Instructions for authors on how to upload and timestamp their work.
+- **[Author Checklist for Manuscript Delivery Protocol (v2).md](Author%20Checklist%20for%20Manuscript%20Delivery%20Protocol%20(v2).md)**: Instructions for authors on how to upload and timestamp their work.
 - **[Why-we-use-GitHub.md](Why-we-use-GitHub.md)**: Explanation of the benefits of using Git/GitHub for this project's audit trail.
 - **[authors.md](authors.md)**: List of project contributors.
 

@@ -14,3 +14,6 @@ Because the timestamp comes from GitHubâ€™s servers (not your personal computerâ
 Even if a file is deleted or changed, the old versions don't vanish. They are safely stored in the project's history. You can think of it as an unlimited "undo" button that we can use to look back at exactly how the document looked at any point in time.
 
 In short, we use GitHub to create a permanent, trustworthy, and automatic record of your document's life from the moment it's first uploaded.
+
+*This document is machine-generated.*
+*License: public domain*

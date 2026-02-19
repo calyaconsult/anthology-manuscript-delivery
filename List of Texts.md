@@ -17,3 +17,4 @@
 - [Shadows of the Forgotten Temple](https://github.com/calyaconsult/anthology-ai-texts/blob/main/Shadows-of-the-Forgotten-Temple.md)
 - [Sometown, Nebraska: Arrival of Villain](https://github.com/calyaconsult/anthology-ai-texts/blob/main/Sometown-Nebraska-Arrival-of-Villain.md)
 - [Untranslatable Word](https://github.com/calyaconsult/anthology-ai-texts/blob/main/Untranslatable-Word.md)
+- [Morning Routine](https://github.com/calyaconsult/anthology-ai-texts/blob/0e48e15b21a549fc5cfa110806827f9fc6362280/Morning-Routine-DeepSeek.md)

@@ -1,10 +1,6 @@
-Here is a corrected version with light edits for grammar, spelling, consistency, and clarity, while preserving your voice and intent.
+# THE AESTHETICS OF AI-WRITTEN TEXTS (Working title)
 
-From: https://replicate.com/openai/gpt-5?prediction=mzxdvrmxe1rmt0cwev6vmnemhm
-
-THE AESTHETICS OF AI-WRITTEN TEXTS
-
-HOW THIS ANTHOLOGY EVOLVED
+## HOW THIS ANTHOLOGY EVOLVED
 
 My interest in machine-generated texts goes back a long way. As a first-year student, I read Max Bense’s seminal book Einführung in die informationstheoretische Ästhetik: Grundlegung und Anwendung in der Texttheorie (1971). Bense cites, among others, “Stochastische Texte” by Theo Lutz. They made a huge impression on me. And, as soon as I had my first computer, I tried to emulate this method of text production.
 
@@ -58,3 +54,4 @@ This anthology therefore presents texts that belong to the broad category of fic
 
 Author: mtg
 Copyright: [see copyright notice](COPYRIGHT)
+

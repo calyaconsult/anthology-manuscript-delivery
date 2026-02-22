@@ -7,7 +7,7 @@ The history of machine-written text spans nearly eight decades, from Christopher
 This anthology operates under three fundamental principles.
 
 - Curatorial rigor: Every text included has been carefully evaluated against rigorous standards. Human judgment and editorial contribution are not incidental; they are essential.
-- Generic breadth: We present a wide array of genres—lyrical essays, dialogues, technical reports, critical fragments—to observe how effectively models navigate distinct conventions and constraints.
+- Generic breadth: We present a wide array of <strike>genres—lyrical essays, dialogues, technical reports, critical fragments</strike>—to observe how effectively models navigate distinct conventions and constraints.
 - Transparent authorship and framing: Each selection is labeled by provenance—AI-generated only, human-written only, or human–AI collaborative—and accompanied, where appropriate, by human-written introductions, notes, and commentary. This paratext is not mere scaffolding but the curatorial layer through which readers encounter and interpret the work.
 
 On editing and presentation: Where possible, we present machine-generated texts with minimal intervention to preserve an “as is” view of the technology’s capabilities and limits. When editorial changes are necessary—for clarity, legality, or coherence—they are documented. The aim is both fidelity to the source and honesty about the role of human mediation.

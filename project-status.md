@@ -16,3 +16,11 @@
 
 # Appendix
 - To be defined
+
+# Print Version
+- Test Printing 1: OK
+- Test Printing 2: open
+- Proof Printing: open
+
+# HTML Version / Website
+- To be defined

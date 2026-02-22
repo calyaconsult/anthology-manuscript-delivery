@@ -9,5 +9,7 @@
 - [Metatatext-vs-Paratext.md](https://github.com/calyaconsult/anthology-metatexts/blob/4dd5b986c6ea0c4c4b7155486bb81bf6e99e1a86/Metatatext-vs-Paratext.md)
 - [Morning-Routine-Gemini.md](https://github.com/calyaconsult/anthology-metatexts/blob/4dd5b986c6ea0c4c4b7155486bb81bf6e99e1a86/Morning-Routine-Gemini.md)
 - [Sometown-Appraisal.md](https://github.com/calyaconsult/anthology-metatexts/blob/4dd5b986c6ea0c4c4b7155486bb81bf6e99e1a86/Sometown-Appraisal.md)
+- [The Weight of Hours (Critique)](https://github.com/calyaconsult/anthology-metatexts/blob/e839a16fd3637dbea4d3208c2d8721c0196c79ac/The-Weight-of-Hours-Critique.md)
+- [The Weight of Hours (Editor's Personal Remark)](https://github.com/calyaconsult/anthology-metatexts/blob/e839a16fd3637dbea4d3208c2d8721c0196c79ac/The-Weight-of-Hours-Editors-Note.md)
 - [Uncle-Randolphs-Will-Paratext-001.md](https://github.com/calyaconsult/anthology-metatexts/blob/4dd5b986c6ea0c4c4b7155486bb81bf6e99e1a86/Uncle-Randolphs-Will-Paratext-001.md)
 

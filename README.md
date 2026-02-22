@@ -16,6 +16,7 @@ This repository is used for:
 
 ## Key Documents
 
+- **[Project Status](project-status.md)**: Overview of the status of the different tasks
 - **[Anthology-Intro.md](Anthology-Intro.md)**: Introduction to the project and the concept of AI text production.
 - **[Personal-Intro.md](Personal-Intro.md)**: A personal statement of the editor of the anthology.
 - **[List of Texts.md](List%20of%20Texts.md)**: A curated list of texts being considered for inclusion in the anthology.

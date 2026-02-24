@@ -22,3 +22,4 @@
 - [Approach to the Front](https://github.com/calyaconsult/anthology-ai-texts/blob/a0559ed5dd8cfc303b522c568adb8d4561a1827c/Approach-to-the-Front-Line-Claude.md)
 - [The-Past-is-a-Zombie (Sample Text Gemini)](https://github.com/calyaconsult/anthology-ai-texts/blob/0b6329eae3855dffa09cf87006a104f0efa8ee8c/The-Past-is-a-Zombie%20(Sample%20Text%20Gemini).md)
 - [The Cartography of Almost](https://github.com/calyaconsult/anthology-ai-texts/blob/eb46ea18736cd974ba3906e49e4adf136d4ae7e3/Possible-Realities-vs-Real-Possibilities%20(Claude).md)
+- [The Fake Countess (Claude sonnet 4.6)](https://github.com/calyaconsult/anthology-ai-texts/blob/6c0b5d4193b4c04029eb3d7d1898f8ca9650d8b9/The-Fake-Countess%20(Claude%20Opus).md)

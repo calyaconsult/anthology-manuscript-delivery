@@ -20,3 +20,4 @@
 - [Morning Routine](https://github.com/calyaconsult/anthology-ai-texts/blob/0e48e15b21a549fc5cfa110806827f9fc6362280/Morning-Routine-DeepSeek.md)
 - [Barcelona Thunderstorm](https://github.com/calyaconsult/anthology-ai-texts/blob/08aaae19a4a67ea90c32339334ef63af56498363/Barcelona-Thunderstorm-DeepSeek.md)
 - [Approach to the Front](https://github.com/calyaconsult/anthology-ai-texts/blob/a0559ed5dd8cfc303b522c568adb8d4561a1827c/Approach-to-the-Front-Line-Claude.md)
+- [The-Past-is-a-Zombie (Sample Text Gemini)](https://github.com/calyaconsult/anthology-ai-texts/blob/0b6329eae3855dffa09cf87006a104f0efa8ee8c/The-Past-is-a-Zombie%20(Sample%20Text%20Gemini).md)

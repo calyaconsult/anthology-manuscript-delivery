@@ -13,3 +13,4 @@
 - [The Weight of Hours (Editor's Personal Remark)](https://github.com/calyaconsult/anthology-metatexts/blob/e839a16fd3637dbea4d3208c2d8721c0196c79ac/The-Weight-of-Hours-Editors-Note.md)
 - [Uncle-Randolphs-Will-Paratext-001.md](https://github.com/calyaconsult/anthology-metatexts/blob/4dd5b986c6ea0c4c4b7155486bb81bf6e99e1a86/Uncle-Randolphs-Will-Paratext-001.md)
 - [The Past is a Zombie (ChatGPT5)](https://github.com/calyaconsult/anthology-metatexts/blob/d28f6b8835620486bbe94d5af8578f28751d38ac/The-Past-is-a-Zombie%20(ChatGPT5).md)
+- [Gotcha](https://github.com/calyaconsult/anthology-metatexts/blob/08bb654b2ae586d6118d5c3692a7ec6e1472db6a/Gotcha.md)

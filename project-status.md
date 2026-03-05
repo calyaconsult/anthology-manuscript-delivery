@@ -5,17 +5,23 @@
 - Editor's Personal Statement: finished
 - Preface: second draft, maybe final
 - Guidelines: finished
-- Tables of Content: current
+- Tables of Content: check!
 
 ## Part 2: The Texts:
 - Final Selection: open
 
 ## Part 3: The Metatexts:
 - Final Selection: open
-- Proper Linking and Formalities: to be completed
+- Proper Linking and Formalities: check!
 
 # Appendix
 - To be defined
+
+# Pre-Print
+- Pull repositories: OK
+- Convert MD to HTML: OK
+- Wrap stories in `section` tags and combine to form `dtories.html` file: OK
+- Generate TOCs: to be done
 
 # Print Version
 - Test Printing 1: OK

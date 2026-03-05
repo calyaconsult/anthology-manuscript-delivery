@@ -20,7 +20,7 @@
 # Pre-Print
 - Pull repositories: OK
 - Convert MD to HTML: OK
-- Wrap stories in `section` tags and combine to form `dtories.html` file: OK
+- Wrap stories in `section` tags and combine to form `stories.html` file: OK
 - Generate TOCs: to be done
 
 # Print Version

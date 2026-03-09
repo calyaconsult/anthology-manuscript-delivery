@@ -2,7 +2,7 @@
 
 ## An Anthology
 
-### Curated by ~~Marcus Antonius~~
+### Curated by Michael Glünz
 
 Published by Calya Digital Publishing Services  
 an imprint of Calya Consult GmbH, Zug, Schweiz
@@ -13,9 +13,9 @@ an imprint of Calya Consult GmbH, Zug, Schweiz
 
 ### Writing as Text Production
 
-In the technical realm, a text is a sequence of characters, encoded as ASCII, UTF-8, UTF-16, UTF-32, or any other form of character encoding. A character is defined as element of a character set, the non-technical term being "alphabet." Character sets are limited, the Latin Alphabet, for instance, has 26 characters (letters), the Arabic alphabet has two or three more. As of September 2025, the largest character set in use is called Unicode 17.0.0. It defines a set of 159'801 characters, among which 101’996, nearly two-thirds, are CJK (Chinese, Japanese, and Korean) ideographs. But even when an alphabet has a size of one hundred thousand it is still limited and small in comparison to the size of the texts that can be generated based on this, or any other, alphabet.
+In the technical realm, a text is a sequence of characters, encoded as ASCII, UTF-8, UTF-16, UTF-32, or any other form of character encoding. A character is defined as element of a character set, the non-technical term being "alphabet." Character sets are limited, the Latin Alphabet, for instance, has 26 characters (letters), the Arabic alphabet has two or three more. As of September 2025, the largest character set in use is called Unicode 17.0.0. It defines a set of 159,801 characters, among which 101’996, nearly two-thirds, are CJK (Chinese, Japanese, and Korean) ideographs. But even when an alphabet has a size of one hundred thousand it is still limited and small in comparison to the size of the texts that can be generated based on this, or any other, alphabet.
 
-A text is a sequence of characters, and every character represents a choice made among the letters of the alphabet. If my text starts with 'A' this means I selected 'A' from {'A', 'B', 'C' ... 'X', 'Y,''Z}. For the next letter of my text, I repeat the selection process, choosing, for instance, 'N' and then 'T' and so on. Every position in my text has 26—for the sake of simplicity, we stay with the Classical Latin all-uppercase alphabet—items to choose from and thus, for two positions we have 26 times 26 possible combinations, for three positions 26 times 26 times 26 (26 to the power of 3\) combinations which equals 17'576 possible texts of three letters length.
+A text is a sequence of characters, and every character represents a choice made among the letters of the alphabet. If my text starts with 'A' this means I selected 'A' from {'A', 'B', 'C' ... 'X', 'Y', 'Z'}. For the next letter of my text, I repeat the selection process, choosing, for instance, 'N' and then 'T' and so on. Every position in my text has 26—for the sake of simplicity, we stay with the Classical Latin all-uppercase alphabet—items to choose from and thus, for two positions we have 26 times 26 possible combinations, for three positions 26 times 26 times 26 (26 to the power of 3\) combinations which equals 17,576 possible texts of three letters length.
 
 The number of combinations grows very fast and a text of 40 lines with 80 characters each has such a vast number of possible combinations of letters that our universe would be much too small to hold all the pages we could fill with them.
 
@@ -27,7 +27,7 @@ If we let a machine choose characters at random we'll most likely end up with so
 
 Technically, every sequence of characters counts as 'text' and can be saved on a computer disk as '.txt' file. The definition of text per se does not restrict the length of a text but in the real world we inhabit the constraints of storage and processing put strict limits on how long our texts can become.
 
-In order to handle text, people who wrote them had to break down the sequence of letters into lines, pages, and books. So we can, for example, have a book with 410 pages, each of which has 40 lines at 80 characters, bringing the total to 1'312'000 characters.
+In order to handle text, people who wrote them had to break down the sequence of letters into lines, pages, and books. So we can, for example, have a book with 410 pages, each of which has 40 lines at 80 characters, bringing the total to 1,312,000 characters.
 
 ### The Library of Babel
 
@@ -39,9 +39,11 @@ Yes, the Library of Babel is there, at least as an idea, but it is a forbidding 
 
 ### An Army of Typing Monkeys
 
-The idea of a The Library of Babel is closely related to the so called Infinite Monkey Theorem which says that a monkey—or a whole army of monkeys—hitting keys independently and at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, including the complete works of William Shakespeare or your biography, for that matter. However, the monkeys will not do so in the time our universe exists as a study cited by the BBC claimed in 2024\. (Reference: [Monkeys will never type Shakespeare, study finds](https://www.bbc.com/news/articles/c748kmvwyv9o))
+The idea of a Library of Babel is closely related to the "infinite monkey theorem" which says that a monkey—or a whole army of monkeys—hitting keys independently and at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, including the complete works of William Shakespeare or your own biography. However, a study published in 2024 by Stephen Woodcock and Jay Falletta took a closer look at the numbers and reached the conclusion that in a finite universe there is simply not enough time, nor are there enough monkeys, to generate even a relatively short non-trivial text by letting the monkeys do the typing.
 
-To speed up text production, we can use computers and we can generate huge amounts of text in a relatively short time but even with the fastest computers we'd still not be able to exhaust the possibilities of arranging letters on pages and pages in books.
+Reference: [A numerical evaluation of the Finite Monkeys Theorem](https://www.sciencedirect.com/science/article/pii/S2773186324001014)
+
+To speed up text production, we nowadays have computers that are able to generate vast amounts of text almost in an instant but even with the fastest computers we would still not come anywhere near the immense number of possible combinations of letters on a page, let alone the number of books filled with such pages.
 
 And so, since finding islands of meaning in an ocean of random gibberish is practically impossible, we have to look elsewhere for a way to navigate the rough seas.
 
@@ -53,20 +55,26 @@ Programmable computers first appeared in the 1940s with Konrad Zuse’s Z3 (1941
 
 The year 1966 marks the creation of two other memorable projects of computer generated text:
 
-- Joseph Weizenbaum’s *ELIZA:* a clever interactive algorithm that simulates a dialogue with its user  
-- Nanni Balestrini’s *Tristano:* an experimental generative novel that was conceived to be read by each reader differently, since each sentence is randomly shuffled.
+- Joseph Weizenbaum’s *ELIZA:* a clever interactive algorithm that simulates a dialogue with its user; to Weizenbaum's surprise, some users of *ELIZA* entered into discussions of real-life problems with this algorithmic "therapist."
+- Nanni Balestrini’s *Tristano:* an experimental generative novel that was conceived to be read by each reader differently, since each section is randomly shuffled. Owing to the technical limitations of 1960s printing presses, it took several decades for the author’s vision to materialize as a series of printed books, each featuring a unique arrangement of sections.
 
 Reference:  
-Lutz [https://zkm.de/de/werk/stochastische-texte](https://zkm.de/de/werk/stochastische-texte)  
-Balestrini [https://www.theguardian.com/books/2014/feb/13/nanni-balestrini-tristano-novel-technology](https://www.theguardian.com/books/2014/feb/13/nanni-balestrini-tristano-novel-technology)
+Lutz [Stochastische Texte](https://zkm.de/de/werk/stochastische-texte)  
+Balestrini [Tristano](https://www.theguardian.com/books/2014/feb/13/nanni-balestrini-tristano-novel-technology)
 
 Ever since John McCarthy coined the term “artificial intelligence” (AI) in 1956, researchers in this field have tried to create algorithms that are able to understand human language and produce output that looks like human language and can be understood by human readers.
 
 The early attempts at text generation resulted in character sequences that had, undeniably, much in common with text written by humans: the sequences were divided into words and sentences, the words were taken from existing dictionaries, the sentences followed the rules of grammar. But, in cases where they were the result of stochastic processes, the texts didn’t make much sense or, in cases where fixed templates were used, they were all variations of one and the same structure.
 
-After early experiments with random and template-based algorithms, a period followed in which rules were thought to be the foundations of language. Prior work by Noam Chomsky had a great if only indirect influence on computer linguistics as the field was now called. Chomsky had proposed a rigorous formalism for the description of syntax and researchers in the fields of machine translation and artificial intelligence hoped to solve some fundamental problems by applying rules to language. But after years of enthusiastic study, efforts to create “expert systems” ran into a cul-de-sac and AI research entered its second winter.
+Noam Chomsky's 1957 book "Syntactic Structures" marks a breakthrough in structural linguistics. Chomsky separates language as an abstract system (competence) from the concrete utterances of human speakers (performance) and defines syntax as a finite set of rules capable of generating an unlimited number of sentences. Chomsky's work not only had a profound influence on theories of human language but it also laid the foundations for the development of programming languages, i.e., formal systems that transform human readable program input into the executable machine code of computers.
 
-With the exponential growth of storage capacity, memory, and processing power, new approaches to the hitherto unsurmountable barriers proved successful. Statistics and neuronal networks were the keys to the kingdom. They required massive amounts of memory space and huge numbers of calculations but this brute force attack paid out. Finally, with the introduction of the transformer architecture, the machines learned to speak and understand human language.
+For some time, culminating in the 1980s, rules were thought to be the solution for understanding language as well as  solving many other kinds of problem. A lot of research went into “expert systems.” An expert system is a collection of rules that, when applied in the right sequence to a basis of known facts, can map a question to its correct answer. In 1972, Alain Colmerauer and Philippe Roussel at the University of Aix-Marseille in France developed a special programming language for the PROcessing of LOGical problems and named it PROLOG. In numerous cases, it proved its eminent value as a tool for implementing expert systems but it missed its original goal, namely to facilitate language processing.
+
+In the 1990s, the enthusiasm that had accompanied visions of artificial intelligence based on expert systems and rule-based problem solving cooled off and most research activity went into a different direction. Human language in all its complexity seemed out of reach for computers. Speech synthesis resulted in unnatural sounding voices, speech recognition reached its limits when more than one speaker or more than simple sentences were involved, and machine translation produced awkward, sometimes even laughable results.
+
+But slowly, new methods of studiying language gained traction. Reserchers in the field of Natural Language Processing (NLP) experimented with neural networks and statistical approaches like Markov models or Bayesian networks. And with the exponential growth of storage capacity, computer memory, and processing power, new approaches to some of the hitherto insurmountable barriers were, at last, successful. Statistics and neural networks proved to be the keys to the kingdom. They required massive amounts of memory space and huge numbers of calculations but this brute force attack paid out. Finally, with the introduction of the transformer architecture, the machines learned to speak and understand human language.
+
+In todays's parlance, outside the acadamic circle opd AI researchers, the term "Artificial Intelligence" (AI) is used more or less as a synonym for "Large Language Model" (LLM). An LLM is a statistical model of how different aspects of language are related to each other. They are usually based on very large amounts of text, going into the billions of individual documents. In a process called "training," the documents are broken down into pieces called "tokens"-which can be words or parts of words-and represented by mathematical vectors. These vectors are fed into gigantic neural networks with billions of "weights" (also called "parameters") which are then repetedly adjusted until the accuracy of predicting the next token in a sequence of tokens satisfies the expected value.
 
 Author: mtg
 Status: draft

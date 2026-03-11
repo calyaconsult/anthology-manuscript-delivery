@@ -1,7 +1,7 @@
 # Project Status
 
 ## Part 1: Introduction, Preface, Guidelines
-- Introduction: to be finished
+- Introduction: finished draft
 - Editor's Personal Statement: finished
 - Preface: second draft, maybe final
 - Guidelines: finished
@@ -21,7 +21,7 @@
 - Pull repositories: OK
 - Convert MD to HTML: OK
 - Wrap stories in `section` tags and combine to form `stories.html` file: OK
-- Generate TOCs: to be done
+- Generate TOCs: mostly done
 
 # Print Version
 - Test Printing 1: OK

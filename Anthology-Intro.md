@@ -82,7 +82,19 @@ LLMs are built to generate verbal output as response to verbal input. To this en
 
 Their ease of use and their enormous versatility made LLMs an instant success with the general public. You don't have to be an expert, you don't even have to be able to write complete sentences like an educated person. All you have to do is type something the LLM, through the interface of a chatbot, can analyze and interpret as a prompt. You could enter the words: "write funny limerik easter bunny" and the chatbot would understand this as a request for a funny limerick about the Easter Bunny.
 
-However, while LLMs are not deterministic and there is no guarantee that the response will satisfy your expectations when submitting a promp, there is a strong correlation between the quality of prompt and response. Submit a vage, unspecific prompt like "write an anecdote about two people who ride on a donkey" and you will, most probably, get a nicely written but not very good version of the anecdode told by Peter Hebel in his [book containing father, son, and donkey anecdote]. Prompt: "write an anecdote, in the style of a spiritual teaching, about two people who ride on a donkey. style: sober prose, no unctuous preaching" and you might get something like [story].
+However, while LLMs are not deterministic and there is no guarantee that the response will satisfy your expectations when submitting a promp, there is a strong correlation between the quality of prompt and response. Submit a vage, unspecific prompt like "write an anecdote about two people who ride on a donkey" and you will, most probably, get a nicely written but not very good version of the anecdode told by Peter Hebel in his "Schatzkästlein des rheinischen Hausfreundes" of 1808. On the other hand, prompt: "write an anecdote, in the style of a spiritual teaching, about two people who ride on a donkey; style: sober prose, no unctuous preaching" and you might get something like
+
+>Two travelers were making their way to the next village. They had a donkey to carry their things and, if needed, one of them. The first traveler rode while the other walked. Passersby frowned: *"How selfish to ride while your friend walks."* So they switched. Now the second rode, and the first walked. Again, voices rose: *"How thoughtless to let your companion tire themselves out."*
+
+>Confused, they decided to walk side by side, leading the donkey. But even this drew criticism: *"Why walk when you have a donkey to ride?"*
+
+>Frustrated, they tried riding together. The donkey, overburdened, stumbled, and all three tumbled into a stream.
+
+>As they sat there, wet and bruised, they realized something simple: no matter what they did, someone would find fault. The lesson wasn’t about the donkey, or the riding, or the walking. It was about the futility of trying to please everyone.
+
+>We all carry our own donkeys—our choices, our paths. Others will always have opinions. But the only way forward is to choose what feels right to you, not what silences the crowd.
+
+>So ride when you need to. Walk when you must. But never let the noise of others dictate your journey.
 
 Knowing how to prompt gives a user a lot of control over the final result but it doesn't save them from the danger of getting back unreliable or made-up results. If the user asks for the source of the story we just discussed the chatbot might respond: I can't find a source for this particular story but it might also cite a non-existing book by a non-existing author or an existing book by an existing author but the book doesn't contain the story. If the chatbot isn't specifically designed to search for sources it will submit the request to the LLM which, in turn, will treat the response as just another string of tokens that share certain statistical features with the response the user expects.
 
